@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CharStringCounter.aspx.cs" Inherits="Deberes_Voluntarios.CharStringCounter" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="CharStringCounter-Reverse.aspx.cs" Inherits="Deberes_Voluntarios.CharStringCounter" %>
 
 <!DOCTYPE html>
 

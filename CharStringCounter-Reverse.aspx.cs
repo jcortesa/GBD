@@ -7,6 +7,10 @@ using System.Web.UI.WebControls;
 
 namespace Deberes_Voluntarios
 {
+    /*Dado un string
+     *  a) Contar los caracteres que tiene
+     *  b) Invertir el string y devolverlo por pantalla
+     */
     public partial class CharStringCounter : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
